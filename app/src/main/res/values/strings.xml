@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RoboKinematics</string>
+    <string name="about_text">Developer: Marcos Lara Torrico\nAndroid Study Jam 2016\nGDG Cochabamba</string>
+</resources>
