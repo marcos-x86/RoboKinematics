@@ -31,12 +31,12 @@ App includes three buttons to move the ScrollView to its initial position, to er
 
 Development information
 -----------------------
-IDE: Android Studio 1.5.1
-API Level: 15. Android 4.0.3 (ICE_CREAM_SANDWICH_MR1)
-JDK: 1.7.0 Update80 32bit
-OS: Linux Mint 17.1 Rebecca 32bit
+- IDE: Android Studio 1.5.1
+- API Level: 15. Android 4.0.3 (ICE_CREAM_SANDWICH_MR1)
+- JDK: 1.7.0 Update80 32bit
+- OS: Linux Mint 17.1 Rebecca 32bit
 
 Contact information
 -------------------
-Name: Marcos Lara Torrico
-Email: learner.mlt@gmail.com
+- Name: Marcos Lara Torrico
+- Email: learner.mlt@gmail.com
